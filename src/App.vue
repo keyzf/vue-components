@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <button @click="handleDialog">弹窗</button>
+    <button @click="handleDialog">dialog窗口</button>
   </div>
 </template>
 
