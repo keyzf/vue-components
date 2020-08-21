@@ -25,13 +25,18 @@ button {
   font-size: 14px;
   border-radius: 4px;
 }
-.primary-button {
+.primary-btn {
   color: #fff;
   background-color: #409eff;
   border-color: #409eff;
 }
-.success-button {
+.success-btn {
   color: #fff;
   background-color: #67c23a;
   border-color: #67c23a;
+}
+.danger-btn{
+  color: #fff;
+    background-color: #f56c6c;
+    border-color: #f56c6c;
 }
