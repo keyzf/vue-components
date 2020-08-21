@@ -30,3 +30,8 @@ button {
   background-color: #409eff;
   border-color: #409eff;
 }
+.success-button {
+  color: #fff;
+  background-color: #67c23a;
+  border-color: #67c23a;
+}
